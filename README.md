@@ -28,4 +28,4 @@
   <img align="center" alt="Gus-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
 </div>
 
-![Snake-animation](https://github.com/gustavoraymundi/gustavoraymundi/blob/output/github-contribution-grid-snake.svg)
+![Snake-animation](https://https://github.com/gustavoraymundi/blob/output/github-contribution-grid-snake.svg)
